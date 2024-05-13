@@ -118,7 +118,7 @@ Find the line `s.src = '//yourproject.disqus.com/embed.js';  // ` in the disqus_
 
 ----------
 
-- In order to send **newsletters** about your posts to your subscribers, you should register an account in [tinyletter](http://www.tinyletter.com " tinyletter").
+- In order to send **newsletters** about your posts to your subscribers, you should register an account in [tinyletter](https://www.tinyletter.com " tinyletter").
 
 Find the line `'https://tinyletter.com/yourproject', ` in the *newsletter.html* and replace 'yourproject' with your registered website.
 
@@ -127,7 +127,7 @@ You can always ommit the newsletter rendering by deleting the line `{% include n
 
 ----------
 
-If you want to use the matching **NEWSLETTER** template, you must always create a new file  by copying its respective index.html and renaming it to e.g. 2016-March-newsletter.html and then save it inside the folder and the accompanying images inside the 'images folder', so it can be accessed to your viewers through their browser. In this case the root url for the above newsletter will be ***http://yourgithubusername.github.io/yourproject/2016-March-newsletter.html***. Copy this link and replace this part of the code `http://www.yoursite.com/newsletter/year-month-newsletter` with it.
+If you want to use the matching **NEWSLETTER** template, you must always create a new file  by copying its respective index.html and renaming it to e.g. 2016-March-newsletter.html and then save it inside the folder and the accompanying images inside the 'images folder', so it can be accessed to your viewers through their browser. In this case the root url for the above newsletter will be ***https://yourgithubusername.github.io/yourproject/2016-March-newsletter.html***. Copy this link and replace this part of the code `https://www.yoursite.com/newsletter/year-month-newsletter` with it.
 
 ----------
 

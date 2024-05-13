@@ -10,7 +10,7 @@ header-img: "img/postcover/pc008.jpg"
 comments: "true"
 ---
 
-<p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
+<p>I would like to thank <a href="https://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="https://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
 
 > Is blog image performance necessary?
 > 
@@ -24,7 +24,7 @@ comments: "true"
 > 
 >   – Marianne
 
-<p>If you care about your readers <a href="http://designyourownblog.com/blog-image-performance/">this</a> post is a <b>MUST READ</b>.</p>
+<p>If you care about your readers <a href="https://designyourownblog.com/blog-image-performance/">this</a> post is a <b>MUST READ</b>.</p>
 
 > There are 3 steps (4 for JPEGs) we should take to optimize our images:
 > 
@@ -46,11 +46,11 @@ comments: "true"
 
 <p> So, dig in her informative post and learn how you can have a fast loading photography website!</p>
 
-<a href="http://designyourownblog.com/blog-image-performance/"><b>"THE BIGGEST MISTAKE YOU’RE PROBABLY MAKING WITH YOUR BLOG IMAGES + CHEAT SHEET"</b></a>
+<a href="https://designyourownblog.com/blog-image-performance/"><b>"THE BIGGEST MISTAKE YOU’RE PROBABLY MAKING WITH YOUR BLOG IMAGES + CHEAT SHEET"</b></a>
 
 Thank you Marianne! :)
 
 <br>
 <br>
 
-<a href="http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg">Featured Image Source</a>
+<a href="https://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg">Featured Image Source</a>

@@ -1,5 +1,5 @@
 /* super-search
-Author: Kushagra Gour (http://kushagragour.in)
+Author: Kushagra Gour (https://kushagragour.in)
 MIT Licensed
 */
 (function () {
@@ -12,7 +12,7 @@ MIT Licensed
 		posts = [];
 
 	// Changes XML to JSON
-	// Modified version from here: http://davidwalsh.name/convert-xml-json
+	// Modified version from here: https://davidwalsh.name/convert-xml-json
 	function xmlToJson(xml) {
 		// Create the return object
 		var obj = {};

@@ -32,4 +32,4 @@ comments: false
 
 <p>Forthwith there was heard a great buzzing in the air, and a swarm of black bees came flying toward her.</p>
 
-<p>Placeholder text by <a href="http://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>
+<p>Placeholder text by <a href="https://www.fillerati.com/">Fillerati</a>. Photography by <a href="https://unsplash.com">UNSPLASH</a>.</p>

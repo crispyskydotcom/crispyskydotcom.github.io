@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://crispyskydotcom.github.io/photorama/gallery/"  
-  - JOURNAL: "https://crispyskydotcom.github.io/photorama/journal/"
-  - ABOUT: "https://crispyskydotcom.github.io/photorama/about/"
+  - GALLERY: "https://crispyskydotcom.github.io/gallery/"  
+  - JOURNAL: "https://crispyskydotcom.github.io/journal/"
+  - ABOUT: "https://crispyskydotcom.github.io/about/"
 
 # All translation keys
 translations:

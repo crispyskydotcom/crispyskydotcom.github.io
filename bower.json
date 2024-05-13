@@ -1,10 +1,10 @@
 {
-  "name": "photorama",
+  "name": "crispysky.com",
   "description": "Photo Journal",
   "main": "index.html",
   "moduleType": [],
   "authors": [
-    "Anna Prigkipaki"
+    "Thomas 'Thomas Thomas' Hughes"
   ],
   "license": "Apache-2.0",
   "homepage": "",
